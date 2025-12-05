@@ -1,5 +1,10 @@
 # Logs
 logs
+
+prettierrc/
+index.html/
+package.json/
+.public
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -16,6 +21,8 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+.public
+
 .DS_Store
 *.suo
 *.ntvs*
