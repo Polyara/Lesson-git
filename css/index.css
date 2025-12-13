@@ -10,8 +10,8 @@
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    display: flex;
-    justify-content: center;
+    /*display: flex;*/
+    /*justify-content: center;*/
 
 }
 
@@ -23,7 +23,7 @@
     opacity: 1;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin: 30px auto;
 
 }
 
@@ -32,13 +32,11 @@
     display: inline-block;
     height: 34px;
     opacity: 1;
-    margin-top: 30px;
 }
 
 .container-menu {
     width: 351px;
     height: 45px;
-    margin-top: 38px;
     opacity: 1;
     gap: 30px;
     display: flex;
@@ -72,7 +70,6 @@
     display: flex;
     justify-content: center;
     gap: 8px;
-    margin-top: 30px;
 
     color: white;
     background-color: #46A358;
