@@ -7,8 +7,6 @@ body {
     margin: 0;
 }
 input, textarea {
-    /*display: block;*/
-    width: 100%;
     align-content: center;
     margin-bottom: 16px;
     padding: 12px 14px;
@@ -36,7 +34,6 @@ input, textarea {
     align-items: center;
 
     cursor: pointer;
-    font-weight: bold;
 
     font-weight: 700;
     font-size: 16px;
